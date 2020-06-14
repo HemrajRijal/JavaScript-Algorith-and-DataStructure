@@ -1,1 +1,1 @@
-# JavaScript-Algorith-and-DataStructure
+# JavaScript Algorithm and DataStructure Problems
